@@ -1,4 +1,4 @@
-<html>
+<htm>
  <head>
   <title>Prueba de PHP</title>
  </head>
